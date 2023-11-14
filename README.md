@@ -34,6 +34,20 @@ O projeto em si é um sistema de gerenciamento de trabalhadores (Workers). Ele i
 
 O objetivo é demonstrar a complexidade de uma arquitetura de microsserviços e como essas tecnologias do Spring Cloud podem ser usadas para criar sistemas escaláveis e eficientes.
 
+## Futuras Implementações
+
+- Camada de Testes: Planejo adicionar uma abrangente camada de testes para garantir a robustez e confiabilidade do sistema.
+
+- Documentação Aprimorada: Pretendo enriquecer a documentação do projeto, fornecendo instruções claras sobre a estrutura, configuração e execução do sistema. Isso facilitará a compreensão e colaboração de outros desenvolvedores interessados no projeto.
+
+- Melhorias na Segurança: Avaliarei e implementarei aprimoramentos na segurança do sistema, garantindo uma gestão eficaz de autorizações e proteção contra possíveis vulnerabilidades.
+
+- Otimização de Desempenho: Buscarei oportunidades para otimizar o desempenho do sistema, identificando e resolvendo possíveis gargalos e melhorando a eficiência geral.
+
+- Feedback da Comunidade: Estou aberto a sugestões e contribuições da comunidade. Caso tenha ideias para melhorias ou correções, sinta-se à vontade para compartilhar por meio de issues ou pull requests.
+
+- Expansão de Recursos: Considerarei a adição de novos recursos ao sistema, levando em conta as necessidades e sugestões dos usuários.
+
 ## Pré-requisitos
 
 - Java 11
